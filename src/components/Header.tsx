@@ -31,8 +31,8 @@ const Header = () => {
       }`}
     >
       <div className="container-custom flex items-center justify-between">
-        <a href="#" className="text-xl font-display font-bold text-foreground">
-          Tansen
+        <a href="#" className="text-xl font-display font-bold text-foreground cursor-pointer ml-8">
+         <img src="/mylogo.png" className="mix-blend-multiply w-15 h-20 " />
         </a>
 
         {/* Desktop Navigation */}

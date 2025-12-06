@@ -19,20 +19,20 @@ const Footer = () => {
 
   return (
     <footer className="bg-muted/50 border-t border-border">
-      <div className="container-custom py-12">
-        <div className="grid md:grid-cols-3 gap-8 mb-8">
+      <div className="container-custom py-1">
+        <div className="grid md:grid-cols-3 gap-8 mb-8 ml-5">
           {/* Brand */}
           <div>
-            <a href="#" className="text-xl font-display font-bold text-foreground">
-              Tansen
+            <a href="#" className="text-xl font-display font-bold text-foreground cursor-pointer ml-8">
+              <img src="/mylogo.png" className="mix-blend-multiply w-15 h-20 " />
             </a>
-            <p className="text-muted-foreground mt-3 text-sm leading-relaxed">
+            <p className="text-muted-foreground  text-sm leading-relaxed">
               Building scalable APIs, secure backend systems, and modern web applications.
             </p>
           </div>
 
           {/* Quick Links */}
-          <div>
+          <div className="mt-4">
             <h4 className="font-display font-semibold text-foreground mb-4">Quick Links</h4>
             <nav className="flex flex-wrap gap-x-6 gap-y-2">
               {quickLinks.map((link) => (
@@ -48,7 +48,7 @@ const Footer = () => {
           </div>
 
           {/* Social */}
-          <div>
+          <div className="mt-4">
             <h4 className="font-display font-semibold text-foreground mb-4">Connect</h4>
             <div className="flex gap-3">
               {socialLinks.map((social) => (

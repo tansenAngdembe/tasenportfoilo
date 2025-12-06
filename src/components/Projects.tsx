@@ -76,7 +76,7 @@ const Projects = () => {
       gradient: "from-primary/80 to-secondary/80",
       code: "https://github.com/tansenAngdembe/HMS",
       demo: null,
-      codeLink: null
+      codeLink: "https://github.com/tansenAngdembe/HMS"
     }
 
 

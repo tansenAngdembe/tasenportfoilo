@@ -70,8 +70,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="pt-8 border-t border-border text-center">
           <p className="text-sm text-muted-foreground flex items-center justify-center gap-1">
-            © {currentYear} Tansen Angdembe. Made with
-            <Heart size={14} className="text-primary fill-primary" />
+            © {currentYear} Tansen Angdembe.
           </p>
         </div>
       </div>

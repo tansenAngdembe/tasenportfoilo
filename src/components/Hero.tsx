@@ -11,11 +11,7 @@ const Hero = () => {
       </div>
 
       <div className="container-custom text-center">
-        <div className="animate-fade-up opacity-0">
-          <span className="inline-block px-4 py-2 rounded-full bg-primary/10 text-primary font-medium text-sm mb-6">
-            Available for opportunities
-          </span>
-        </div>
+        
 
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-display font-bold mb-6 animate-fade-up opacity-0 stagger-1">
           Hi, I'm <span className="gradient-text">Tansen Angdembe</span>

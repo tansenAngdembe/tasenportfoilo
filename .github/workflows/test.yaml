@@ -3,7 +3,7 @@ name: Test My Portfoilo App
 on:
   push:
     branches: 
-      -main
+      - main
 
 jobs:
   test:

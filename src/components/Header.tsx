@@ -24,15 +24,14 @@ const Header = () => {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled
           ? "bg-card/90 backdrop-blur-xl shadow-card py-3"
           : "bg-transparent py-5"
-      }`}
+        }`}
     >
       <div className="container-custom flex items-center justify-between">
         <a href="#" className="text-xl font-display font-bold text-foreground cursor-pointer ml-8">
-         <img src="/mylogo.png" className="mix-blend-multiply w-15 h-20 " />
+          <img src="/mylogo.png" className="mix-blend-multiply w-15 h-20 " />
         </a>
 
         {/* Desktop Navigation */}
@@ -76,9 +75,15 @@ const Header = () => {
                 {link.label}
               </a>
             ))}
+          
             <div className="flex items-center gap-3">
               <ThemeToggle />
-              <a href="#" className="btn-primary flex items-center justify-center gap-2 text-sm flex-1">
+
+              <a
+                href="/my-cv.pdf"
+                download
+                className="btn-primary flex items-center justify-center gap-2 text-sm flex-1"
+              >
                 <Download size={16} />
                 Download CV
               </a>

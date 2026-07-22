@@ -40,6 +40,14 @@ export default function SEO(): JSX.Element {
         Docker,
         REST APIs,
         Web Development,    
+        Tansen Angdembe,
+        tansen,
+        Tansen,
+        angdembe,
+        Angdembe,
+        Sudip,
+        Limboo,
+        Limbu,
         "
       />
 

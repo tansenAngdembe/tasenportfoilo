@@ -48,6 +48,16 @@ export default function SEO(): JSX.Element {
         Sudip,
         Limboo,
         Limbu,
+        tansen angdembe, 
+        tansenangdembe,
+        tansen angdembe portfolio,
+        tansenangdembe portfolio,
+        tansen angdembe full stack developer,
+        tansenangdembe full stack developer,
+        tansen angdembe java developer,
+        tansenangdembe java developer,
+        tansen angdembe react developer,
+        tansenangdembe react developer,
         "
       />
 

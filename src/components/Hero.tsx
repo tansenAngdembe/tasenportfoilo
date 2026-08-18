@@ -11,7 +11,7 @@ const Hero = () => {
       </div>
 
       <div className="container-custom text-center">
-        
+
 
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-display font-bold mb-6 animate-fade-up opacity-0 stagger-1">
           Hi, I'm <span className="gradient-text">Tansen Angdembe</span>

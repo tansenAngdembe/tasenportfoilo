@@ -1,0 +1,180 @@
+﻿No.,Priority,Category,Keyword / Topic,Content Type
+1,High,Spring Boot & Java,spring boot jwt authentication tutorial,Tutorial
+2,High,Spring Boot & Java,spring security jwt authentication,Tutorial
+3,High,Spring Boot & Java,spring boot jwt authentication and authorization,Tutorial
+4,High,Spring Boot & Java,spring boot refresh token jwt,Tutorial
+5,High,Spring Boot & Java,spring boot role based authentication,Tutorial
+6,High,Spring Boot & Java,spring boot custom userdetails,Tutorial
+7,High,Spring Boot & Java,spring boot security configuration,Tutorial
+8,High,Spring Boot & Java,spring boot mysql database connection,Tutorial
+9,High,Spring Boot & Java,spring boot jpa mysql example,Tutorial
+10,High,Spring Boot & Java,spring boot rest api tutorial,Tutorial
+11,High,Spring Boot & Java,spring boot global exception handling,Tutorial
+12,High,Spring Boot & Java,spring boot validation example,Tutorial
+13,High,Spring Boot & Java,spring boot pagination and sorting,Tutorial
+14,High,Spring Boot & Java,spring boot redis caching,Tutorial
+15,High,Spring Boot & Java,spring boot redis rate limiting,Tutorial
+16,High,Spring Boot & Java,spring boot liquibase tutorial,Tutorial
+17,High,Spring Boot & Java,spring boot environment variables,Tutorial
+18,High,Spring Boot & Java,spring boot production deployment,Tutorial
+19,High,Spring Boot & Java,how to configure JWT authentication in Spring Boot,How-to
+20,High,Spring Boot & Java,how to implement JWT authentication in Spring Boot,How-to
+21,High,Spring Boot & Java,how to implement refresh token in Spring Boot,How-to
+22,High,Spring Boot & Java,how to secure REST API with Spring Security,How-to
+23,Medium,MySQL & Database,how to install MySQL on Windows,How-to
+24,Medium,MySQL & Database,how to install MySQL 8 on Windows,How-to
+25,Medium,MySQL & Database,how to install MySQL on Ubuntu,How-to
+26,Medium,MySQL & Database,MySQL installation and configuration guide,Guide
+27,Medium,MySQL & Database,how to configure MySQL username and password,How-to
+28,Medium,MySQL & Database,how to create MySQL database and user,How-to
+29,Medium,MySQL & Database,MySQL database backup and restore,How-to
+30,Medium,MySQL & Database,MySQL indexing best practices,Guide
+31,Medium,MySQL & Database,MySQL query optimization,Guide
+32,Medium,MySQL & Database,MySQL EXPLAIN query tutorial,Tutorial
+33,Medium,MySQL & Database,MySQL transactions and isolation levels,Guide
+34,Medium,MySQL & Database,MySQL connection refused error,Troubleshooting
+35,Medium,MySQL & Database,MySQL access denied error,Troubleshooting
+36,Medium,Linux,how to install Ubuntu,How-to
+37,Medium,Linux,Linux commands every developer should know,Guide
+38,Medium,Linux,Linux file permissions explained,Guide
+39,Medium,Linux,chmod command explained,Guide
+40,Medium,Linux,chown command explained,Guide
+41,Medium,Linux,Linux grep command examples,Guide
+42,Medium,Linux,Linux find command examples,Guide
+43,Medium,Linux,Linux systemctl commands,Guide
+44,Medium,Linux,Linux environment variables,Guide
+45,Medium,Linux,how to deploy Spring Boot application on Linux,How-to
+46,Medium,Linux,how to deploy Java application on Ubuntu server,How-to
+47,Medium,Linux,how to install Java on Ubuntu,How-to
+48,Medium,Linux,how to install Nginx on Ubuntu,How-to
+49,Medium,Linux,how to configure Nginx reverse proxy,How-to
+50,Medium,Linux,how to configure SSL with Nginx,How-to
+51,Medium,Linux,how to run Spring Boot as a Linux service,How-to
+52,Medium,Linux,how to use systemd for Spring Boot,How-to
+53,Medium,Linux,how to check Linux server logs,How-to
+54,Medium,Linux,how to troubleshoot Linux server,Troubleshooting
+55,High,AWS,AWS for Java developers,Guide
+56,High,AWS,AWS deployment tutorial for beginners,Tutorial
+57,High,AWS,how to deploy Spring Boot application on AWS,How-to
+58,High,AWS,AWS EC2 Spring Boot deployment,How-to
+59,High,AWS,how to deploy Java application on EC2,How-to
+60,High,AWS,how to connect EC2 to MySQL,How-to
+61,High,AWS,AWS security groups explained,Guide
+62,High,AWS,AWS IAM explained for beginners,Guide
+63,High,AWS,deploy Spring Boot Docker container on AWS,How-to
+64,High,AWS,AWS ECR Docker image tutorial,Tutorial
+65,High,AWS,AWS ECS Docker deployment,How-to
+66,High,AWS,AWS ECS Spring Boot deployment,How-to
+67,High,AWS,AWS ECS task definition explained,Guide
+68,High,AWS,AWS Application Load Balancer ECS,Guide
+69,High,AWS,AWS ECS service deployment tutorial,Tutorial
+70,High,AWS,AWS CodeBuild Docker deployment,How-to
+71,High,AWS,GitHub Actions AWS ECR deployment,How-to
+72,Medium,AWS Troubleshooting,AWS ECS 504 Gateway Timeout,Troubleshooting
+73,Medium,AWS Troubleshooting,AWS ECS container health check failed,Troubleshooting
+74,Medium,AWS Troubleshooting,AWS ECR permission denied,Troubleshooting
+75,Medium,AWS Troubleshooting,AWS CodeBuild AccountLimitExceededException,Troubleshooting
+76,Medium,AWS Troubleshooting,AWS ECS task cannot connect to database,Troubleshooting
+77,Medium,AWS Troubleshooting,AWS load balancer 504 error,Troubleshooting
+78,High,Docker,Docker tutorial for beginners,Tutorial
+79,High,Docker,how to install Docker on Windows,How-to
+80,High,Docker,how to install Docker on Ubuntu,How-to
+81,High,Docker,Docker commands for beginners,Guide
+82,High,Docker,Docker image vs container,Guide
+83,High,Docker,Dockerfile explained,Guide
+84,High,Docker,Docker Compose tutorial,Tutorial
+85,High,Docker,Docker volumes explained,Guide
+86,High,Docker,Docker networks explained,Guide
+87,High,Docker,Dockerize Spring Boot application,How-to
+88,High,Docker,Spring Boot Dockerfile example,Example
+89,High,Docker,Spring Boot Docker Compose MySQL,Tutorial
+90,High,Docker,Spring Boot Docker Compose Redis,Tutorial
+91,High,Docker,Spring Boot production Dockerfile,Guide
+92,High,Docker,multi stage Dockerfile for Spring Boot,Guide
+93,High,Docker,Java Docker image optimization,Guide
+94,High,Docker,deploy Spring Boot Docker application,How-to
+95,Medium,IntelliJ IDEA,how to install IntelliJ IDEA,How-to
+96,Medium,IntelliJ IDEA,how to install IntelliJ IDEA on Windows,How-to
+97,Medium,IntelliJ IDEA,how to configure Java in IntelliJ IDEA,How-to
+98,Medium,IntelliJ IDEA,how to install JDK for IntelliJ IDEA,How-to
+99,Medium,IntelliJ IDEA,how to create Spring Boot project in IntelliJ,How-to
+100,Medium,IntelliJ IDEA,how to configure Maven in IntelliJ,How-to
+101,Medium,IntelliJ IDEA,how to configure Git in IntelliJ IDEA,How-to
+102,Medium,IntelliJ IDEA,how to connect MySQL to IntelliJ,How-to
+103,Medium,IntelliJ IDEA,IntelliJ IDEA useful shortcuts,Guide
+104,Medium,IntelliJ IDEA,IntelliJ IDEA debugging tutorial,Tutorial
+105,Medium,IntelliJ IDEA,IntelliJ IDEA environment variables,How-to
+106,Medium,Git & GitHub,Git tutorial for beginners,Tutorial
+107,Medium,Git & GitHub,Git commands every developer should know,Guide
+108,Medium,Git & GitHub,Git branch explained,Guide
+109,Medium,Git & GitHub,Git merge vs rebase,Comparison
+110,Medium,Git & GitHub,Git stash explained,Guide
+111,Medium,Git & GitHub,Git reset vs revert,Comparison
+112,Medium,Git & GitHub,Git cherry pick explained,Guide
+113,Medium,Git & GitHub,how to create GitHub repository,How-to
+114,Medium,Git & GitHub,how to push project to GitHub,How-to
+115,Medium,Git & GitHub,GitHub SSH key setup,How-to
+116,Medium,Git & GitHub,GitHub personal access token,Guide
+117,Medium,Git & GitHub,GitHub two factor authentication,How-to
+118,Medium,Git & GitHub,GitHub branch protection rules,Guide
+119,Medium,Git & GitHub,GitHub pull request tutorial,Tutorial
+120,Medium,Git & GitHub,GitHub Actions Spring Boot CI/CD,Tutorial
+121,Medium,Git & GitHub,GitHub Actions Java Maven build,How-to
+122,Medium,Git & GitHub,GitHub Actions Docker build,How-to
+123,Medium,Git & GitHub,GitHub Actions AWS ECR deployment,How-to
+124,Medium,Git & GitHub,GitHub Actions ECS deployment,How-to
+125,Medium,Cloudflare & Hosting,how to connect Namecheap domain to Cloudflare,How-to
+126,Medium,Cloudflare & Hosting,how to connect domain to Hostinger,How-to
+127,Medium,Cloudflare & Hosting,how to configure Cloudflare DNS,How-to
+128,Medium,Cloudflare & Hosting,Cloudflare DNS records explained,Guide
+129,Medium,Cloudflare & Hosting,Cloudflare nameservers explained,Guide
+130,Medium,Cloudflare & Hosting,how to point domain to hosting server,How-to
+131,Medium,Cloudflare & Hosting,how to configure Cloudflare SSL,How-to
+132,Medium,Cloudflare & Hosting,Cloudflare SSL modes explained,Guide
+133,Medium,Cloudflare & Hosting,how to fix Cloudflare SSL error,Troubleshooting
+134,Medium,Cloudflare & Hosting,how to connect Hostinger with Cloudflare,How-to
+135,Medium,Cloudflare & Hosting,Cloudflare with Vercel,How-to
+136,Medium,Redis,Redis with Spring Boot tutorial,Tutorial
+137,Medium,Redis,Spring Boot Redis configuration,How-to
+138,Medium,Redis,Spring Boot RedisTemplate example,Example
+139,Medium,Redis,RedisTemplate tutorial,Tutorial
+140,Medium,Redis,Spring Boot Redis rate limiting,Tutorial
+141,Medium,Redis,Redis rate limiter implementation,How-to
+142,Medium,Redis,Redis TTL explained,Guide
+143,Medium,Redis,Redis expiration time explained,Guide
+144,Medium,Redis,Redis set data structure example,Example
+145,Medium,Redis,Redis caching REST API,Tutorial
+146,Medium,REST API,REST API design best practices,Guide
+147,Medium,REST API,REST API authentication,Guide
+148,Medium,REST API,REST API authorization,Guide
+149,Medium,REST API,REST API pagination,Guide
+150,Medium,REST API,REST API validation,Guide
+151,Medium,REST API,REST API error handling,Guide
+152,Medium,REST API,REST API rate limiting,Guide
+153,Medium,REST API,REST API versioning,Guide
+154,Medium,REST API,REST API security best practices,Guide
+155,Medium,REST API,API documentation with Swagger,How-to
+156,Medium,REST API,Spring Boot Swagger OpenAPI tutorial,Tutorial
+157,Medium,Java Advanced,Java Stream API tutorial,Tutorial
+158,Medium,Java Advanced,Java Optional explained,Guide
+159,Medium,Java Advanced,Java CompletableFuture tutorial,Tutorial
+160,Medium,Java Advanced,Java multithreading tutorial,Tutorial
+161,Medium,Java Advanced,Java ExecutorService explained,Guide
+162,Medium,Java Advanced,Java records explained,Guide
+163,Medium,Java Advanced,Java virtual threads,Guide
+164,Medium,Java Advanced,Java memory management,Guide
+165,Medium,Java Advanced,JVM memory explained,Guide
+166,Medium,Java Advanced,Java garbage collection,Guide
+167,Medium,Java Advanced,Java HashMap internals,Guide
+168,Medium,Java Advanced,Java ConcurrentHashMap explained,Guide
+169,High,Troubleshooting,How to Fix Spring Security JWT Authentication Not Working,Troubleshooting
+170,High,Troubleshooting,How to Fix 401 Unauthorized in Spring Boot JWT,Troubleshooting
+171,High,Troubleshooting,How to Fix 403 Forbidden in Spring Security,Troubleshooting
+172,High,Troubleshooting,How to Fix CORS Error in Spring Boot,Troubleshooting
+173,High,Troubleshooting,How to Fix MySQL Connection Refused in Spring Boot,Troubleshooting
+174,High,Troubleshooting,How to Fix Redis Connection Refused in Spring Boot,Troubleshooting
+175,High,Troubleshooting,How to Fix Docker Container Cannot Connect to MySQL,Troubleshooting
+176,High,Troubleshooting,How to Fix AWS ECS 504 Gateway Timeout,Troubleshooting
+177,High,Troubleshooting,How to Fix Nginx 502 Bad Gateway,Troubleshooting
+178,High,Troubleshooting,How to Fix GitHub Actions Docker Build Failed,Troubleshooting
+179,High,Troubleshooting,How to Fix ECR AccessDeniedException,Troubleshooting

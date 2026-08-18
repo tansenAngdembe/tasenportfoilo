@@ -19,7 +19,7 @@ const Contact = () => {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    
+
     if (!formData.name.trim() || !formData.email.trim() || !formData.message.trim()) {
       toast({
         title: "Error",
@@ -40,15 +40,15 @@ const Contact = () => {
     }
 
     setIsSubmitting(true);
-    
+
     // Simulate form submission
     await new Promise((resolve) => setTimeout(resolve, 1000));
-    
+
     toast({
       title: "Message Sent!",
       description: "Thank you for reaching out. I'll get back to you soon.",
     });
-    
+
     setFormData({ name: "", email: "", message: "" });
     setIsSubmitting(false);
   };
@@ -85,7 +85,7 @@ const Contact = () => {
               <h3 className="font-display font-semibold text-xl mb-6 text-foreground">
                 Get In Touch
               </h3>
-              
+
               <div className="space-y-4 mb-8">
                 {contactInfo.map((item) => (
                   <a
@@ -132,7 +132,7 @@ const Contact = () => {
             <h3 className="font-display font-semibold text-xl mb-6 text-foreground">
               Send a Message
             </h3>
-            
+
             <form onSubmit={handleSubmit} className="space-y-5">
               <div>
                 <label htmlFor="name" className="block text-sm font-medium text-foreground mb-2">
